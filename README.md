@@ -81,7 +81,7 @@ Not all EPUBCheck flags will result in files failing upon ingestion but Kobo str
 
 ## Sideloading for Testing Purposes
 
-Kobo encourages the testing of content on all its reading platforms by sideloading. Content should display identically whether sideloaded or downloaded to a device from the Kobo store. Instances where this is not the case can be reported to renderingissues@kobo.com and the EPUB in question will be logged for investigation.
+Kobo encourages the testing of content on all its reading platforms by sideloading. Content should display identically whether sideloaded or downloaded to a device from the Kobo store. Instances where this is not the case can be reported to kobo-renderingissues@mail.rakuten.com and the EPUB in question will be logged for investigation.
 
 Here’s how to sideload content on Kobo's reading platforms:
 
